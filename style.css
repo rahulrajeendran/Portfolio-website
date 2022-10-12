@@ -1,0 +1,68 @@
+a:hover{
+    color: darkorange;
+}
+a{
+    color: white;
+}
+.card{
+    background: transparent;
+    border: 2px solid black;
+    width: 200px;
+    height: 120px; 
+    margin-left: 80px;
+}
+li{
+    list-style-type: none;
+}
+span{
+    color: darkorange;
+}
+i{
+    color: darkorange;
+}
+h4{
+    font-family:'Roboto Condensed', sans-serif ;
+}
+#rw{
+    margin-left: 45px;
+}
+#light{
+    font-optical-sizing: 10px;
+}
+#pad{
+    margin-top: -15px;
+}
+#back:hover{
+    background-color: darkorange;
+}
+#back{
+    margin-left: 40px;
+}
+#logosize{
+    font-size: 30px;
+}
+#fta{
+    color: black;
+    text-decoration: none;
+}
+#fta:hover{
+    color: darkorange;
+}
+button{
+    height: 40px;
+    margin-left: -6px;
+    margin-top: -5px;
+}
+input{
+    height: 40px;
+}
+footer{
+    background-color: darkgrey;
+}
+#home{
+    background-image: url(https://img.freepik.com/free-photo/closeup-developer-hands-typing-code-keyboard-while-looking-computer-screens-with-programming-interface-software-programmer-sitting-desk-with-clipboard-writing-algorithm_482257-33551.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    /* https://fandomwire.com/wp-content/uploads/2022/08/Henry-Cavill-Superman-Diet-Workout-Plan.jpg */
+}
